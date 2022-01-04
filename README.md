@@ -47,3 +47,41 @@ d) Morphological and lexical analysis: It helps in explaining the structure of w
 
 7) What is Latent Semantic Indexing (LSI)?<br>
 Answer:- Latent semantic indexing is a mathematical technique used to improve the accuracy of the information retrieval process. The design of LSI algorithms allows machines to detect the hidden (latent) correlation between semantics (words). To enhance information understanding, machines generate various concepts that associate with the words of a sentence.
+
+8) What is TF-IDF?<br>
+Answerr:- TFIDF or Term Frequency-Inverse Document Frequency indicates the importance of a word in a set. It helps in information retrieval with numerical statistics. For a specific document, TF-IDF shows a frequency that helps identify the keywords in a document.
+
+                The formula for calculating TF-IDF:<br>
+                TF(W) = (Frequency of W in a document)/(The total number of terms in the document)<br>
+                IDF(W) = log_e(The total number of documents/The number of documents having the term W)<br>
+
+9) Define the terminology in NLP.<br>
+Answer:-The interpretation of Natural Language Processing depends on various factors, and they are: <br>
+
+        #Weights and Vectors<br>
+Use of TF-IDF for information retrieval<br>
+Length (TF-IDF and doc)<br>
+Google Word Vectors<br>
+Word Vectors<br>
+
+        #Structure of the Text<br>
+POS tagging<br>
+Head of the sentence<br>
+Named Entity Recognition (NER)<br>
+
+        #Sentiment Analysis<br>
+Knowledge of the characteristics of sentiment<br>
+Knowledge about entities and the common dictionary available for sentiment analysis<br>
+
+        #Classification of Text<br>
+Supervised learning algorithm<br>
+Training set<br>
+Validation set<br>
+Test set<br>
+Features of the text<br>
+LDA<br>
+
+        #Machine Reading<br>
+Removal of possible entities<br>
+Joining with other entities<br>
+DBpedia<br>
