@@ -85,3 +85,32 @@ LDA<br>
 Removal of possible entities<br>
 Joining with other entities<br>
 DBpedia<br>
+-------------------------------------------------------------------------------------------------------------
+# Machine Learning
+
+What are Different Types of Machine Learning algorithms?<br>
+Answer:- The ML alogorithms are divided into three categroies are as follows:<br>
+
+                a) Supervised (task Driven)
+        Regression
+        Classification
+        Randking
+                b) Unsupervsied (Data Driven)
+        Clustering
+        Segmentation
+        Assoiate mining
+        Dimension Reducation
+                c)Reinforcement (leanr to react accoridn to envoriment)
+        Reward Systems
+        Decision Process
+        Recommendation system
+        
+What is Supervised Machine Learning?<br>
+Answer:- Supervised learning uses a training set to teach models to yield the desired output. <br>
+         e.g. Support Vector Machines,Regression,Naive Bayes,Decision Trees,K-nearest Neighbour Algorithm and Neural Networks.
+
+ What is Unsupervised Learning?<br>
+Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict. Unsupervised Learning Algorithms:<br>
+        e.gClustering,Anomaly Detection,Neural Networks and Latent Variable Models.
+
+  
