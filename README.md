@@ -112,5 +112,7 @@ Answer:- Supervised learning uses a training set to teach models to yield the de
  What is Unsupervised Learning?<br>
 Unsupervised learning is also a type of machine learning algorithm used to find patterns on the set of data given. In this, we don’t have any dependent variable or label to predict. Unsupervised Learning Algorithms:<br>
         e.gClustering,Anomaly Detection,Neural Networks and Latent Variable Models.
+        
+        
 
   
